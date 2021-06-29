@@ -1,0 +1,20 @@
+{
+  "name": "example-asset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krpeacock/ic-static-minimal.git"
+  },
+  "keywords": [],
+  "author": "Kyle Peacock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krpeacock/ic-static-minimal/issues"
+  },
+  "homepage": "https://github.com/krpeacock/ic-static-minimal#readme"
+}
